@@ -13,6 +13,6 @@ To use the project, download the weights and config files from the Models Data d
  If the jupyter notebook instance is local then the user must install YoloV4 and darknet beforehand. To do that, please refer to  https://github.com/AlexeyAB/darknet.<br/>
  If the user decides to use google colaboratory, then the weights and config files can be stored on a google drive to make it easier to use with the notebook. 
 
-#### Credits
+#### References
  - Link to the dataset used in the V3 training : https://msda.um6p.ma/msda_datasets <br/>
  - Link to the paper the V3 character recognition is based on : https://arxiv.org/pdf/2104.08244.pdf
